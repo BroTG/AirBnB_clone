@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+names = "EZE KING"
+sur_name, another_name = name.split()
+	print(f"{sur_name}, {another_name}")
